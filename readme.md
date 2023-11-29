@@ -1,5 +1,5 @@
 ![Frontend Web Developer](https://media.licdn.com/dms/image/D5616AQEoA11W52HWfw/profile-displaybackgroundimage-shrink_350_1400/0/1674132564915?e=1705536000&v=beta&t=E8RdbkeKxDp4Wj8y1WvB5sn3RbpP4tAkAW8jQlEHoIk)
-### Hi there 👋, my name is Masud Rana
+### Hi 👋, my name is Masud Rana
 #### Frontend Web Developer
 
 I enjoy always learning new technologies and staying up-to-date on current trends in web development.
