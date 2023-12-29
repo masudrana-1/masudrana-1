@@ -1,6 +1,3 @@
-(https://media.licdn.com/dms/image/D5616AQEoA11W52HWfw/profile-displaybackgroundimage-shrink_350_1400/0/1674132564915?e=1709164800&v=beta&t=_kMSk8JfVWpUYD8oEs7L7xomDlVR2Z7ppqV5VJlZgyI)
-
-
 <h1 align="center">Hi 👋, I'm Masud Rana</h1>
 <h3 align="center">A passionate frontend developer Bangladesh</h3>
 
