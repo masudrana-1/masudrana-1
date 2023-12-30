@@ -1,4 +1,4 @@
-https://media.licdn.com/dms/image/D5616AQFXPi2YznP3DQ/profile-displaybackgroundimage-shrink_350_1400/0/1703935543970?e=1709164800&v=beta&t=QHCunKj1Ap11jUTbRNEIach61bP4RBzZ84jEKrMOmUs
+<image src="https://media.licdn.com/dms/image/D5616AQFXPi2YznP3DQ/profile-displaybackgroundimage-shrink_350_1400/0/1703935543970?e=1709164800&v=beta&t=QHCunKj1Ap11jUTbRNEIach61bP4RBzZ84jEKrMOmUs"/>
 
 
 <h1 align="center">Hi 👋, I'm Masud Rana</h1>
