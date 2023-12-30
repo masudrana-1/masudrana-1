@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://masudranadev.vercel.app/](https://masudranadev.vercel.app/)
 
-- 📫 How to reach me **masudrana58855@gmail.com**
+- 📫 Email **masudrana58855@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VOtZmAZr2ZF3xoLt0AiAqddVxn6lb6Wk/view?usp=sharing](https://drive.google.com/file/d/1VOtZmAZr2ZF3xoLt0AiAqddVxn6lb6Wk/view?usp=sharing)
 
