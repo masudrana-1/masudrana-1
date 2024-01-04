@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning "Prisma || Mongoose"<br>🧑‍💻All of my projects are available at <a href="masudranadev.vercel.app">masudrana</a><br>📫Reach me anytime masudrana58855@gmail.com<br>📝Know about my experiences <a href="https://drive.google.com/file/d/1VOtZmAZr2ZF3xoLt0AiAqddVxn6lb6Wk/view?usp=sharing">masudrana</a>
+🌱 I’m currently learning " Prisma || Mongoose "<br>🧑‍💻All of my projects are available at <a href="masudranadev.vercel.app">masudrana</a><br>📫Reach me anytime masudrana58855@gmail.com<br>📝Know about my experiences <a href="https://drive.google.com/file/d/1VOtZmAZr2ZF3xoLt0AiAqddVxn6lb6Wk/view?usp=sharing">masudrana</a>
 
 
 ## 🌐 Socials:
