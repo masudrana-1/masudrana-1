@@ -43,11 +43,6 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-#GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=masudrana-1&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=masudrana-1&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana-1&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 
 <p align="center">
 <table>
